@@ -1,6 +1,7 @@
 # Photos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+Cette application est réalisée grâce aux technologies suivantes : Angular, Javascript, Typescript, Html5, Css3, Json, API Rest Pixabay, ...
 
 ## Development server
 
